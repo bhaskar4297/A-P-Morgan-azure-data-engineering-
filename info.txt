@@ -1,0 +1,6 @@
+selected resource name:		pipeline1
+selected resource type:		pipeline
+factory name:			apmorgan-df
+factory location:		eastus
+subscription id:		0377a75d-551b-4c1a-946f-a8b2b04214d6
+time of download (UTC):		Thu, 17 Aug 2023 10:23:51 GMT
